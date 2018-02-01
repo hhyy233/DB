@@ -1,0 +1,15 @@
+Grading Key for Homework 03:
+
+Total points: 100
+Question 1-4: 10 points each
+Question 5-8: 15 points each
+
+If you output the wrong answer or partial answer, 
+you will get 0 point for this question.
+
+Partial points:
+-3 points for each answer with wrong order.
+-3 points for each answer with wrong column names.
+-half of the question total points for each answer 
+that can't be executed due to typo or wrong format.
+(For question 1-4, -5 points; for question 5-8, -7 points)
