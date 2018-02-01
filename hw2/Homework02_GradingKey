@@ -1,0 +1,10 @@
+-4 points : Any unnecessary table or missing table, missing relationships
+-4 points : If table is not created for Many-many relationship or mutivalued attribute.
+-4 points : Wrong/missing/incomplete keys for one relationship table.
+-2 points : incorrect attributes
+-2 points : missing necessary annotations .
+-2 points : for wrong crow feet notations. 
+
+And for this assignment, only what is specified in the assignment can be used for its solution and not anything else. No assumptions can be made based on common sense, or previous assumptions
+
+For every many-to-one in arrow notation, in crow-feet, it can be either 0..1 or 1..1

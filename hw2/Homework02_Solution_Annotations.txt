@@ -1,0 +1,8 @@
+
+
+1. For a Manager, no two managers can have the same tuple (Location, Room number).
+2. For every Course, the Coaches that teach the Course must have Level that is greater of equal to the Level of the Course.
+3. Fine in Borrows is calculated by a procedure if the book is overdue i.e. if Current Date < Due Date then Fine =  (Due Date – Current Date)*2, otherwise it is Null.
+4. All persons should either be in manager, coach or member.
+
+
